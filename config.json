@@ -29,8 +29,11 @@
     "jellyBall": {
       "enabled": true,
       "swipeBack": true,
-      "functions": {},
-      "customCSS": ""
+      "functions": {
+        "quick_switch": true
+      },
+      "customCSS": "",
+      "cssPresets": []
     },
     "globalFont": {
       "name": "",
