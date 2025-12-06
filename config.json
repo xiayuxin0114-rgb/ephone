@@ -4,7 +4,13 @@
   "categories": [
     {
       "name": "全部",
-      "buttons": []
+      "buttons": [
+        {
+          "text": "章鱼机",
+          "href": "projects/章鱼机/index.html",
+          "openExternally": false
+        }
+      ]
     }
   ],
   "settings": {
