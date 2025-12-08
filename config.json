@@ -34,8 +34,8 @@
       "enabled": true,
       "timeBasedEnabled": false,
       "times": [],
-      "message": "是时候该备份你的项目啦！",
-      "onExit": false,
+      "message": "夏雨欣你有没有备份文件👊",
+      "onExit": true,
       "projects": []
     },
     "checkinSettings": {
