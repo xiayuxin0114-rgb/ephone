@@ -6,11 +6,6 @@
       "name": "全部",
       "buttons": [
         {
-          "text": "章鱼机",
-          "href": "projects/章鱼机/index.html",
-          "openExternally": false
-        },
-        {
           "text": "糯米机",
           "href": "projects/糯米机/index.html",
           "openExternally": false
