@@ -25,7 +25,7 @@
   ],
   "settings": {
     "paginationEnabled": true,
-    "themeStyle": "glass",
+    "themeStyle": "neumorphism",
     "jellyBall": {
       "enabled": true,
       "swipeBack": true,
@@ -59,7 +59,7 @@
       "cardColor": "#ffffff"
     },
     "mobileMode": {
-      "enabled": true
+      "enabled": false
     }
   },
   "themePresets": [
