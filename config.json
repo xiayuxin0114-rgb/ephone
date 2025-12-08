@@ -31,7 +31,7 @@
       "shapeContent": "☁️"
     },
     "backupReminder": {
-      "enabled": false,
+      "enabled": true,
       "timeBasedEnabled": false,
       "times": [],
       "message": "是时候该备份你的项目啦！",
