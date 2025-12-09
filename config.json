@@ -5,13 +5,23 @@
     {
       "name": "全部",
       "buttons": []
+    },
+    {
+      "name": "文件小手机",
+      "buttons": [
+        {
+          "text": "neko_xin",
+          "href": "projects/nekoxin/index.html",
+          "openExternally": false
+        }
+      ]
     }
   ],
   "settings": {
     "paginationEnabled": true,
     "themeStyle": "neumorphism",
     "jellyBall": {
-      "enabled": false,
+      "enabled": true,
       "swipeBack": true,
       "functions": {},
       "customCSS": ""
