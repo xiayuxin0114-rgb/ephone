@@ -28,6 +28,11 @@
           "text": "果咩机",
           "href": "https://komepphone.netlify.app/",
           "openExternally": true
+        },
+        {
+          "text": "气泡机",
+          "href": "https://qipaopphone.netlify.app/",
+          "openExternally": true
         }
       ]
     }
