@@ -20,6 +20,16 @@
           "openExternally": false
         }
       ]
+    },
+    {
+      "name": "链接",
+      "buttons": [
+        {
+          "text": "果咩机",
+          "href": "https://komepphone.netlify.app/",
+          "openExternally": true
+        }
+      ]
     }
   ],
   "settings": {
