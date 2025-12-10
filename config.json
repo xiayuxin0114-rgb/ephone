@@ -63,6 +63,9 @@
     "checkinSettings": {
       "headerColor": "#8B4513",
       "cardColor": "#ffffff"
+    },
+    "mobileMode": {
+      "enabled": true
     }
   },
   "themePresets": [
