@@ -65,7 +65,7 @@
       "cardColor": "#ffffff"
     },
     "mobileMode": {
-      "enabled": true
+      "enabled": false
     }
   },
   "themePresets": [
